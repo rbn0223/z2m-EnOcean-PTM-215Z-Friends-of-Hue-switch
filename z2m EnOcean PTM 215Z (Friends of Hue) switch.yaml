@@ -2,7 +2,7 @@ blueprint:
   name: EnOcean PTM 215Z (Friends of Hue) switch
   description:
     Controller automation for executing press/hold/release after hold actions triggered by EnOcean PTM 215Z (Friends of Hue) switch.
-    Make sure that 'Elapsed' is enabled in the z2m advanced settings
+    Make sure that 'Elapsed' is enabled in the z2m advanced settings.
   domain: automation
   input:
     controller:
